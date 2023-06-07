@@ -1,3 +1,9 @@
+#AUthor: JACK-JARRDIM
+#Follow the instaructions in README
+#Use only for educational purposes
+#version: 1.0
+#Advanced version available
+
 import socket
 import threading
 import time
